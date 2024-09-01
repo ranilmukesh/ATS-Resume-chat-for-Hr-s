@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+google-generativeai
+langchain
+langchain-google-genai
+docx2pdf
+pywin32
