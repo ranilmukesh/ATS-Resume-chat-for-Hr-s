@@ -14,7 +14,7 @@ import shutil
 import hashlib
 
 # Configure the Google Gemini API
-gemini_api = "AIzaSyC-e6OumSIdNjvpoGxhDHUVmZvE-CKqdsg"
+gemini_api = "AI"
 genai.configure(api_key=gemini_api)
 
 @st.cache_data
